@@ -1,7 +1,7 @@
 import React from 'react'
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
-import EmailIcon from '@mui/icons-material/Email';
+import PictureAsPdfIcon from '@mui/icons-material/PictureAsPdf';
 import '../styles/Home.css'
 const Home = () => {
   return (
@@ -12,7 +12,9 @@ const Home = () => {
             <p>A Full Stack Developer who loves in developing, designing, and maintaining software applications.</p>
             <a href='https://www.linkedin.com/in/guganeshwaran-r-b840b414b'><LinkedInIcon/></a>
             <a href='https://github.com/Guganhub'><GitHubIcon/></a>
-            <EmailIcon/>
+            <a href='https://drive.google.com/file/d/1XASejyMEt5GPvT7sqbUw2sZtzlOypSqG/view?usp=sharing'><PictureAsPdfIcon/></a>
+
+
         </div>
       </div>
       <div className='skills'>
