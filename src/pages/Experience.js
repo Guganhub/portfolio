@@ -31,6 +31,11 @@ const Experience = () => {
            <p>Client co-ordinator</p>
 
         </VerticalTimelineElement>
+        <VerticalTimelineElement className='vertical-timeline-element--education' date='2023-Present' iconStyle={{background :'#e9d35b', color:'#fff' }} icon={<WorkIcon/>}>
+           <h3 className='vertical-timeline-eleent-title'>Schneider Electric</h3> 
+           <p>Associate Method Engineer</p>
+
+        </VerticalTimelineElement>
       </VerticalTimeline>
     
     </div>

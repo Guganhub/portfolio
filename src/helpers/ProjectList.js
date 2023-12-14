@@ -1,6 +1,7 @@
 import admin from '../assets/admin.jpg'
 import inventory from '../assets/inventory.png'
 import provisionstore from '../assets/Provisionstore.png'
+import quicknote from '../assets/QuickNote.png'
 
 
 
@@ -10,8 +11,15 @@ export const ProjectList =[
         name : 'Inventory Managemanet App',
         image : inventory,
         TechUsed : 'React, nodeJS, expressJS, mongodb',
-        GithubUrl : 'https://github.com/Guganhub/Backend',
+        GithubUrl : 'https://github.com/Guganhub/QuickNotePro-frontend',
         Url : 'https://ginventory-app.vercel.app'
+    },
+    {
+        name : 'QuickNotePro',
+        image : quicknote,
+        TechUsed : 'React, nodeJS, expressJS, mongodb',
+        GithubUrl : 'https://github.com/Guganhub/Backend',
+        Url : 'https://quick-note-pro-frontend.vercel.app'
     },
     {
         name : 'Provision For Your Home',
